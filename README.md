@@ -1,0 +1,2 @@
+# Botty
+Discord-translater-bot
